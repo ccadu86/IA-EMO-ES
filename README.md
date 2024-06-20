@@ -1,1 +1,4 @@
-# IA-EMO-ES
+# Projeto IA - Reconhecimento de emoções
+
+## Equipamentos:
+### Respberrry
