@@ -1,4 +1,6 @@
 # Projeto IA - Reconhecimento de emoções
 
 ## Equipamentos:
-### Respberrry
+- Raspberrry Pi 4
+- Monitor
+- Web cam
