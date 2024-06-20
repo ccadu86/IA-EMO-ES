@@ -1,4 +1,5 @@
 from google.cloud import vision
+import cv2
 
 def detect_faces(path):
 
@@ -39,3 +40,21 @@ def detect_faces(path):
             "{}\nFor more info on error messages, check: "
             "https://cloud.google.com/apis/design/errors".format(response.error.message)
         )
+    
+def capture_image(image_path):
+
+    webcam = cv2.VideoCapture(0)
+
+    if webcam.isOpened():
+        validacao, frame = webcam.read()
+        while validacao:
+            validacao, frame = webcam.read()
+            cv2.imshow("Video da Webcam", frame)
+            key = cv2.waitKey(5)
+            if key == 27: # ESC
+                break
+
+        #Salva a última imagem capturada
+        cv2.imwrite(image_path, frame)
+        webcam.release()
+        cv2.destroyAllWindows()
