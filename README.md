@@ -677,7 +677,58 @@ landmarks {
 	under_exposed_likelihood: VERY_UNLIKELY 
 	blurred_likelihood: VERY_UNLIKELY 
 	headwear_likelihood: VERY_LIKELY 
-] 
-None
+]
+
+## Configuração do Hardware
+
+![a.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/df22d4e2-0408-43fc-b139-e6be3d34d022/e7520a8c-3d27-4aec-bcda-e08b6c7b8ad5/a.png)
+
+### Sistema de Pull Down da Raspberry Pi 4
+
+Utilizamos um circuito com resistores de pull-down integrados ao pino GPIO17 (General Purpose Input/Output). Esse resistor é utilizado para garantir que os pinos GPIO tenham um estado definido (alto ou baixo) quando não está sendo ativamente acionado por um dispositivo externo, no caso o botão presente no nosso projeto.
+
+**Resistores de Pull Down**
+
+- **Pull Down**: Um resistor de pull-down é conectado entre o pino GPIO e o terra (GND). Assegurando que o pino esteja em um estado de baixo (0V) quando nenhum sinal é aplicado. Sem o resistor de pull-down, o pino ficaria flutuante e poderia ler valores imprevisíveis devido a interferências elétricas.
+
+**Configuração**
+
+Na Raspberry Pi, os resistores de pull-down podem ser configurados programaticamente usando a biblioteca GPIO (por exemplo, RPi.GPIO no Python).
+
+```jsx
+import RPi.GPIO as GPIO
+
+# Configura o modo da pinagem
+GPIO.setmode(GPIO.BCM)
+
+# Define o pino 17 (GPIO 17) como entrada com pull-down
+GPIO.setup(17, GPIO.IN, pull_up_down=GPIO.PUD_DOWN)
+```
+
+### Utilização de Portas e Fios no Pinout da Raspberry Pi 4
+
+- **Porta GROUND** (9): FIO MARROM
+    - **Função**: Conexão ao terra (GND) da Raspberry Pi. Isso fornece um referencial de 0V para os circuitos.
+    
+- **Porta GPIO 17** (11): FIO AMARELO
+    - **Função:** Sensor que realiza o envio de sinal. Configurado como uma entrada com resistor de pull-down.
+    
+- **Porta GPIO 27** (13): FIO LARANJA (reserva)
+    - **Função**: Outro pino GPIO configurável. Reservado para futuras conexões ou utilizações.
+
+- **Porta 3V3 power** (17): FIO VERMELHO
+    - **Função**: Fornece uma saída de 3.3V da Raspberry Pi. É utilizado como alimentação de sensores ou outros componentes eletrônicos que operam com 3.3V.
+
+Diagrama de pinagem da Raspberry Pi 4:
+![diagrama](https://github.com/ccadu86/IA-EMO-ES/assets/134337212/955c4a51-f12b-48f7-84f9-a323395c176a)
+
+![rasp](https://github.com/ccadu86/IA-EMO-ES/assets/134337212/8a6688f0-d393-4010-b7e9-74b30a5f2755)
+
+**Componente botão**
+
+- Realiza o pull-down na operação.
+
+![Botão](https://github.com/ccadu86/IA-EMO-ES/assets/134337212/a34fc537-d9c5-4bbb-a711-4d461bc52393)
+
 ```
 
