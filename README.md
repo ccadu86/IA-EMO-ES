@@ -3,7 +3,7 @@
 ![image](https://github.com/ccadu86/IA-EMO-ES/assets/134337212/4046d9d9-3eb4-422a-ae6a-230e46491509)
 <br/>
 <div align="center">
-	<img href="https://www.canva.com/pt_br/" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
+	<a href="https://www.canva.com/pt_br/" ><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/></a>
 	<img href="" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
 	<img href="" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 	<img href="" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
