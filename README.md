@@ -104,7 +104,7 @@ SSH - É um protocolo de comunicação remoto via terminal, pelo terminal conseg
 
 ## Python
 
-→ Link para o site oficial: (https://www.python.org/)
+→ Link para o site oficial: [Python](https://www.python.org/)
 
 ### Preparação do ambiente - Python:
 
