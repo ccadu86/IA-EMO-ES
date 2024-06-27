@@ -680,7 +680,6 @@ landmarks {
 ] 
 None
 ```
-
-![Testando a WebCam](https://prod-files-secure.s3.us-west-2.amazonaws.com/df22d4e2-0408-43fc-b139-e6be3d34d022/3b228fdd-5d93-4175-9a80-08eaf631e1b5/nse-6731352525565378005-1000052265.jpg)
+![Testando a webcam](https://github.com/ccadu86/IA-EMO-ES/assets/134337212/7abd8549-6c7c-4ee8-b63e-c5aebaecafb3)
 
 Testando a WebCam
