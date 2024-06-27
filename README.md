@@ -687,7 +687,7 @@ landmarks {
 ## Configuração do Hardware
 ![hardware](https://github.com/ccadu86/IA-EMO-ES/assets/134337212/2540bac4-1973-4ba1-adec-212166ec5087)
 
-![Sistema pull down](https://github.com/ccadu86/IA-EMO-ES/assets/134337212/f2427aa2-77a6-4031-9bae-313a9b97feab)
+![Circuito](https://github.com/ccadu86/IA-EMO-ES/assets/36140205/8fa4fa08-a7b4-455a-ac38-769f11ea7f3c)
 
 ### Sistema de Pull Down da Raspberry Pi 4
 
