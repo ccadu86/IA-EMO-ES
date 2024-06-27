@@ -102,3 +102,76 @@ SSH - É um protocolo de comunicação remoto via terminal, pelo terminal conseg
 
 → Clicar no botão “YES” para a criação da imagem no cartão SD.
 
+### Preparação do ambiente - Python:
+
+→ Instalação e Configuração do VScode
+
+Obs: A instalação do VScode foi realizada somente para o desenvolvimento do projeto. Após a aprovação da interface, a utilização do python passou a ser utilizada pelo terminal, para melhorar a otimização.
+
+*Antes da instalação do VScode, a própria Rasp dá uma opção para a atualização dos sistema operacional.
+
+→ No terminal:
+
+```python
+pip install code
+```
+
+```python
+code
+```
+
+→ No VScode, realizar a instalação e ativação do python (extensões): 
+
+![Extensoes Py](https://github.com/ccadu86/IA-EMO-ES/assets/134337212/6926ddcb-4f7e-4faf-9f1c-7b189e5482e0)
+
+---
+
+### `Configuração do ambiente sem o VScode`
+
+→ Preparação do ambiente pelo terminal:
+
+- Atualização dos pacotes da RASP
+
+```jsx
+sudo apt-get update
+sudo apt-get upgrade
+```
+
+- Criação de pasta para o projeto
+
+```jsx
+MKDIR ProjetoIA
+```
+
+- Clonar o repositório do git
+
+```jsx
+git clone https://github.com/ccadu86/IA-EMO-ES.git
+```
+
+- Criação de ambiente virtual
+
+```jsx
+python -m venv venv
+```
+
+- Ativar ambiente virtual
+
+```jsx
+source venv/bin/activate
+```
+
+- Instalações das bibliotecas
+
+```jsx
+pip install opencv-python
+pip install --upgrade google-cloud-vision
+pip install RPi-GPIO
+```
+
+- Start aplicação
+
+```jsx
+python main.py
+```
+
