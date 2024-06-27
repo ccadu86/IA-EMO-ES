@@ -680,6 +680,4 @@ landmarks {
 ] 
 None
 ```
-![Testando a webcam](https://github.com/ccadu86/IA-EMO-ES/assets/134337212/7abd8549-6c7c-4ee8-b63e-c5aebaecafb3)
 
-Testando a WebCam
