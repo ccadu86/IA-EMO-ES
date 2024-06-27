@@ -64,7 +64,7 @@ Equipado com processador, memória RAM, placa de vídeo integrada e diversos con
 
 **→ Configurar Raspberry Pi Imager**
 
-![Customisation Rasp](https://github.com/ccadu86/IA-EMO-ES/assets/134337212/8344d348-7e68-4a7c-832f-895cf0a83e82)
+![Config rasp](https://github.com/ccadu86/IA-EMO-ES/assets/134337212/29791fca-ad97-4d61-bffe-ee43250a3af7)
 
 - **Raspberry Pi Device:** Raspberry Pi 4;
 - **Operating System:** Raspberry Pi OS (64-bit);
@@ -72,13 +72,13 @@ Equipado com processador, memória RAM, placa de vídeo integrada e diversos con
 
 **→ NEXT**
 
-![Settings rasp](https://github.com/ccadu86/IA-EMO-ES/assets/134337212/a07bbbdd-b534-4ff2-beec-7f1f6c07fe0d)
+![Customisation Rasp](https://github.com/ccadu86/IA-EMO-ES/assets/134337212/8344d348-7e68-4a7c-832f-895cf0a83e82)
 
 **→ EDIT SETTINGS**
 
 → GENERAL:
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/df22d4e2-0408-43fc-b139-e6be3d34d022/ba3cc7bc-355c-42f0-87ed-925e1dd1ddac/Untitled.png)
+![Settings rasp](https://github.com/ccadu86/IA-EMO-ES/assets/134337212/a07bbbdd-b534-4ff2-beec-7f1f6c07fe0d)
 
 Configurações:
 
@@ -92,7 +92,7 @@ Configurações:
 
 → SERVICES:
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/df22d4e2-0408-43fc-b139-e6be3d34d022/01e46258-896b-4ef1-8a69-002b9e08b236/Untitled.png)
+![Services rasp](https://github.com/ccadu86/IA-EMO-ES/assets/134337212/2c7861d8-8ddd-413a-b28b-e59ce0b62115)
 
 Enable SSH ✅
 
@@ -100,7 +100,7 @@ SSH - É um protocolo de comunicação remoto via terminal, pelo terminal conseg
 
 → SAVE
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/df22d4e2-0408-43fc-b139-e6be3d34d022/1440e6e4-9524-4853-ad29-22c2314a496e/Untitled.png)
+![SAVE RASP](https://github.com/ccadu86/IA-EMO-ES/assets/134337212/8e28c164-d4c5-4573-8ebd-8418f36f6557)
 
 → Clicar no botão “YES” para a criação da imagem no cartão SD.
 
