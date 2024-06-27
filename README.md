@@ -179,3 +179,41 @@ pip install RPi-GPIO
 python main.py
 ```
 
+## Cloud Vision API
+
+**Documentação do Cloud Vision**
+
+[Documentação do Cloud Vision  |  Cloud Vision API  |  Google Cloud](https://cloud.google.com/vision/docs?hl=pt-br)
+
+- ACESSAR GOOGLE CLOUD PLATFORM (GCP):
+
+[Cloud Computing Services | Google Cloud](https://cloud.google.com/)
+
+1. Resgate dos créditos (US$300) para o projeto
+2. Acesso ao produto: **Cloud Vision API**
+
+---
+
+- Ao realizar o acesso à plataforma, há um projeto pré-criado pela plataforma. Porém, foi optado a criação de um novo projeto.
+
+**Nome do Projeto**: IA - EMOCOES
+
+- Utilização do **Face Detection**, funcionalidade disponível na IA do Cloud Vision.
+- Ativação da API do Cloud Vision pela plataforma.
+
+---
+
+Detalhes do Produto - Cloud Vision API
+
+**Valor para utilização da API - FACE DETECTIONS OPERATIONS:**
+
+| REQUISIÇÕES | 0 até < 1000/mês | > 1000/mês |
+| --- | --- | --- |
+| BRL | 0,00 | 8,870629612 |
+- Reconhece a emoção a partir da captura de imagem.
+- Ao realizar a habilitação da API é necessário uma credencial de API para realizar acessos.
+- Criação de uma **Conta de Serviço: IA_EMOCOES**. Ao criar uma ****conta de serviço é possível utilizar qualquer serviço do Google Cloud Platform.
+- Done
+- Acesso à conta
+- Acesso às Chaves e gerar arquivo JSON (***credentials.json***)
+
