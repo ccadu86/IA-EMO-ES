@@ -710,10 +710,13 @@ landmarks {
 <p align="justify">
 Utilizamos um circuito com resistores de pull-down integrados ao pino GPIO17 (General Purpose Input/Output). Esse resistor é utilizado para garantir que os pinos GPIO tenham um estado definido (alto ou baixo) quando não está sendo ativamente acionado por um dispositivo externo, no caso o botão presente no nosso projeto.
 </p>
+
 **Resistores de Pull Down**
 <p align="justify">
+	
 - **Pull Down**: Um resistor de pull-down é conectado entre o pino GPIO e o terra (GND). Assegurando que o pino esteja em um estado de baixo (0V) quando nenhum sinal é aplicado. Sem o resistor de pull-down, o pino ficaria flutuante e poderia ler valores imprevisíveis devido a interferências elétricas.
 </p>
+
 **Configuração**
 
 Na Raspberry Pi, os resistores de pull-down podem ser configurados programaticamente usando a biblioteca GPIO (por exemplo, RPi.GPIO no Python).
