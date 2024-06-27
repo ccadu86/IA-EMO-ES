@@ -44,9 +44,7 @@ Planejamento de uma estética visual visando o relacionamento entre o usuário, 
 
 ## Raspberry
 
-→ Link para o site oficial:
-
-[Raspberry Pi](https://www.raspberrypi.com/)
+→ Link para o site oficial: [Raspberry Pi](https://www.raspberrypi.com/)
 
 ### O que é a Raspberry?
 
