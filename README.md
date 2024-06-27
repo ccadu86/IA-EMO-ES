@@ -730,5 +730,3 @@ Diagrama de pinagem da Raspberry Pi 4:
 
 ![Botão](https://github.com/ccadu86/IA-EMO-ES/assets/134337212/a34fc537-d9c5-4bbb-a711-4d461bc52393)
 
-```
-
