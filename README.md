@@ -679,6 +679,7 @@ landmarks {
 	headwear_likelihood: VERY_LIKELY 
 ]
 
+````
 ## Configuração do Hardware
 
 ![a.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/df22d4e2-0408-43fc-b139-e6be3d34d022/e7520a8c-3d27-4aec-bcda-e08b6c7b8ad5/a.png)
