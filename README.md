@@ -1,5 +1,7 @@
 # Projeto IA - Reconhecimento de emoções
 
+![image](https://github.com/ccadu86/IA-EMO-ES/assets/134337212/2fdb2312-69f1-4059-bbf2-877a71f3a9ea)
+
 <aside>
 💡 A ideia principal do projeto é utilizar uma API da Google (Cloud Vision), para extrair emoções do usuário, pela webcam.
 
