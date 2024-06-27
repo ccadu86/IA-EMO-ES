@@ -1,6 +1,7 @@
 <h1 align="center">PROJETO IA - RECONHECIMENTO DE EMOÇÕES</h1>
 
-![image](https://github.com/ccadu86/IA-EMO-ES/assets/134337212/4046d9d9-3eb4-422a-ae6a-230e46491509)
+![image](https://github.com/ccadu86/IA-EMO-ES/assets/134337212/fa03387a-b2b2-4cdd-8827-70e1d25e911b)
+
 <br/>
 <div align="center">
 	<a href="https://www.canva.com/pt_br/" ><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/></a>
