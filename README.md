@@ -58,10 +58,12 @@ Planejamento de uma estética visual visando o relacionamento entre o usuário, 
 
 ### O que é a Raspberry?
 
+<p align="justify">
 O Raspberry Pi (RPi) é um microcomputador de placa única projetado pela Raspberry Pi Foundation, lançado inicialmente em 2012 com o modelo Raspberry Pi 1 Model B. Ele é uma alternativa acessível e compacta aos computadores tradicionais, contendo todos os componentes essenciais em uma única placa.
-
+</p>
+<p align="justify">
 Equipado com processador, memória RAM, placa de vídeo integrada e diversos conectores (como USB, HDMI, áudio e GPIO), o Raspberry Pi suporta sistemas operacionais baseados em Linux e pode ser utilizado para uma variedade de finalidades. Desde atividades educacionais em programação e eletrônica até projetos de automação residencial, servidores de mídia, IoT e prototipagem.
-
+</p>
 ### Procedimento para utilização da Raspberry
 
 **→ Download da imagem da Raspberry no cartão SD**
@@ -705,12 +707,13 @@ landmarks {
 
 ### Sistema de Pull Down da Raspberry Pi 4
 
+<p align="justify">
 Utilizamos um circuito com resistores de pull-down integrados ao pino GPIO17 (General Purpose Input/Output). Esse resistor é utilizado para garantir que os pinos GPIO tenham um estado definido (alto ou baixo) quando não está sendo ativamente acionado por um dispositivo externo, no caso o botão presente no nosso projeto.
-
+</p>
 **Resistores de Pull Down**
-
+<p align="justify">
 - **Pull Down**: Um resistor de pull-down é conectado entre o pino GPIO e o terra (GND). Assegurando que o pino esteja em um estado de baixo (0V) quando nenhum sinal é aplicado. Sem o resistor de pull-down, o pino ficaria flutuante e poderia ler valores imprevisíveis devido a interferências elétricas.
-
+</p>
 **Configuração**
 
 Na Raspberry Pi, os resistores de pull-down podem ser configurados programaticamente usando a biblioteca GPIO (por exemplo, RPi.GPIO no Python).
