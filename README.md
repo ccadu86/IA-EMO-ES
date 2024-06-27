@@ -729,5 +729,6 @@ Diagrama de pinagem da Raspberry Pi 4:
 
 - Realiza o pull-down na operação.
 
-![Botão](https://github.com/ccadu86/IA-EMO-ES/assets/134337212/a34fc537-d9c5-4bbb-a711-4d461bc52393)
+![botão](https://github.com/ccadu86/IA-EMO-ES/assets/36140205/aca085cc-51f6-4265-aaff-5b94fe381aac)
+
 
