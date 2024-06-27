@@ -742,7 +742,7 @@ Diagrama de pinagem da Raspberry Pi 4:
     <tr>
         <td align="center" >
         <a href="https://github.com/ccadu86">
-            <img src="https://avatars.githubusercontent.com/u/134381442?v=4" width="115px;" alt="Carlos"/><br>
+            <img src="https://avatars.githubusercontent.com/u/36140205?v=4" width="115px;" alt="Carlos"/><br>
             <sub>
             <b>Carlos Eduardo</b>
             </sub>
@@ -750,7 +750,7 @@ Diagrama de pinagem da Raspberry Pi 4:
         </td>
         <td align="center">
         <a href="https://github.com/alemes7">
-            <img src="https://avatars.githubusercontent.com/u/134386150?v=4" width="115px;" alt="Alexandre"/><br>
+            <img src="https://avatars.githubusercontent.com/u/134004663?v=4" width="115px;" alt="Alexandre"/><br>
             <sub>
             <b>Alexandre</b>
             </sub>
@@ -758,7 +758,7 @@ Diagrama de pinagem da Raspberry Pi 4:
         </td>
 	<td align="center">
         <a href="https://github.com/Guilherme-Augusto06">
-            <img src="https://avatars.githubusercontent.com/u/134386150?v=4" width="115px;" alt="Guilherme"/><br>
+            <img src="https://avatars.githubusercontent.com/u/133021078?v=4" width="115px;" alt="Guilherme"/><br>
             <sub>
             <b>Guilherme Augusto</b>
             </sub>
