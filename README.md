@@ -1,5 +1,5 @@
 <h1 align="center">PROJETO IA - RECONHECIMENTO DE EMOÇÕES</h1>
-a
+
 ![image](https://github.com/ccadu86/IA-EMO-ES/assets/134337212/4046d9d9-3eb4-422a-ae6a-230e46491509)
 <br/>
 <div align="center">
