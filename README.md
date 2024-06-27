@@ -39,8 +39,6 @@ Planejamento de uma estética visual visando o relacionamento entre o usuário, 
 
 ## `Esquema visual:`
 
-![GPC (2).png](https://prod-files-secure.s3.us-west-2.amazonaws.com/df22d4e2-0408-43fc-b139-e6be3d34d022/e776ffad-6f8f-4893-8de2-dd0aba14074f/GPC_(2).png)
+![GPC (2)](https://github.com/ccadu86/IA-EMO-ES/assets/134337212/148c9470-e4a3-42fc-b1be-8413a86ec60a)
 
-## `Kanban inicial:`
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/df22d4e2-0408-43fc-b139-e6be3d34d022/ca10403f-6dca-459f-b056-b3ebd2bae3d4/Untitled.png)
