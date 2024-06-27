@@ -682,7 +682,7 @@ landmarks {
 ````
 ## Configuração do Hardware
 
-![a.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/df22d4e2-0408-43fc-b139-e6be3d34d022/e7520a8c-3d27-4aec-bcda-e08b6c7b8ad5/a.png)
+![Sistema pull down](https://github.com/ccadu86/IA-EMO-ES/assets/134337212/f2427aa2-77a6-4031-9bae-313a9b97feab)
 
 ### Sistema de Pull Down da Raspberry Pi 4
 
