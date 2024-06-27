@@ -45,12 +45,11 @@ Planejamento de uma estética visual visando o relacionamento entre o usuário, 
 - Botão → Resistor → Pull-Down.
 
 ## Raspberry
+![RASPBERRY (1)](https://github.com/ccadu86/IA-EMO-ES/assets/134337212/cf5c8e22-1717-4d06-aa86-36b70942bc5b)
 
 → Link para o site oficial: [Raspberry Pi](https://www.raspberrypi.com/)
 
 ### O que é a Raspberry?
-
-![Raspberry](https://github.com/ccadu86/IA-EMO-ES/assets/134337212/b9b85bec-d499-4b02-9375-d6b8365db440)
 
 O Raspberry Pi (RPi) é um microcomputador de placa única projetado pela Raspberry Pi Foundation, lançado inicialmente em 2012 com o modelo Raspberry Pi 1 Model B. Ele é uma alternativa acessível e compacta aos computadores tradicionais, contendo todos os componentes essenciais em uma única placa.
 
@@ -105,6 +104,7 @@ SSH - É um protocolo de comunicação remoto via terminal, pelo terminal conseg
 → Clicar no botão “YES” para a criação da imagem no cartão SD.
 
 ## Python
+![python](https://github.com/ccadu86/IA-EMO-ES/assets/134337212/a6e8727d-1156-4851-b827-9f6530186d3b)
 
 → Link para o site oficial: [Python](https://www.python.org/)
 
@@ -182,6 +182,7 @@ python main.py
 ```
 
 ## Cloud Vision API
+![google](https://github.com/ccadu86/IA-EMO-ES/assets/134337212/c1ae2a00-186f-4852-b1eb-6b807266f51b)
 
 **Documentação do Cloud Vision**
 
@@ -220,6 +221,7 @@ Detalhes do Produto - Cloud Vision API
 - Acesso às Chaves e gerar arquivo JSON (***credentials.json***)
 
 ## Integração com a Webcam
+![webcam](https://github.com/ccadu86/IA-EMO-ES/assets/134337212/cf2407af-002b-47ea-be35-79d1e41c5de1)
 
 → Realização dos primeiros testes da integração da WebCam.
 
@@ -683,6 +685,7 @@ landmarks {
 
 ````
 ## Configuração do Hardware
+![hardware](https://github.com/ccadu86/IA-EMO-ES/assets/134337212/2540bac4-1973-4ba1-adec-212166ec5087)
 
 ![Sistema pull down](https://github.com/ccadu86/IA-EMO-ES/assets/134337212/f2427aa2-77a6-4031-9bae-313a9b97feab)
 
@@ -732,5 +735,61 @@ Diagrama de pinagem da Raspberry Pi 4:
 - Realiza o pull-down na operação.
 
 ![botão](https://github.com/ccadu86/IA-EMO-ES/assets/36140205/aca085cc-51f6-4265-aaff-5b94fe381aac)
+
+<h2> Realizado por: </h2>
+<div align="center">
+    <table>
+    <tr>
+        <td align="center" >
+        <a href="https://github.com/ccadu86">
+            <img src="https://avatars.githubusercontent.com/u/134381442?v=4" width="115px;" alt="Carlos"/><br>
+            <sub>
+            <b>Carlos Eduardo</b>
+            </sub>
+        </a>
+        </td>
+        <td align="center">
+        <a href="https://github.com/alemes7">
+            <img src="https://avatars.githubusercontent.com/u/134386150?v=4" width="115px;" alt="Alexandre"/><br>
+            <sub>
+            <b>Alexandre</b>
+            </sub>
+        </a>
+        </td>
+	<td align="center">
+        <a href="https://github.com/Guilherme-Augusto06">
+            <img src="https://avatars.githubusercontent.com/u/134386150?v=4" width="115px;" alt="Guilherme"/><br>
+            <sub>
+            <b>Guilherme Augusto</b>
+            </sub>
+        </a>
+        </td>
+        <td align="center">
+        <a href="https://github.com/lerpaiva">
+            <img src="https://avatars.githubusercontent.com/u/133794677?v=4" width="115px;" alt="Letícia"/><br>
+            <sub>
+            <b>Letícia</b>
+            </sub>
+        </a>
+        </td>
+        <td align="center">
+        <a href="https://github.com/mariadudasn">
+            <img src="https://avatars.githubusercontent.com/u/134337212?v=4" width="115px;" alt="Maria"/><br>
+            <sub>
+            <b>Maria Eduarda</b>
+            </sub>
+        </a>
+        </td>
+        <td align="center">
+        <a href="https://github.com/natpazs">
+            <img src="https://avatars.githubusercontent.com/u/134384648?v=4" width="115px;" alt="Natália"/><br>
+            <sub>
+            <b>Natália Paz</b>
+            </sub>
+        </a>
+        </td>
+    </tr>
+    </table>
+</div>
 
 
