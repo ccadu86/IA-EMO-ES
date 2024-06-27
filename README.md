@@ -63,7 +63,9 @@ Equipado com processador, memória RAM, placa de vídeo integrada e diversos con
 
 **→ Configurar Raspberry Pi Imager**
 
-![Config rasp](https://github.com/ccadu86/IA-EMO-ES/assets/134337212/29791fca-ad97-4d61-bffe-ee43250a3af7)
+<p align="center">
+  <img src="https://github.com/ccadu86/IA-EMO-ES/assets/134337212/29791fca-ad97-4d61-bffe-ee43250a3af7" alt="Configuração RASP">
+</p>
 
 - **Raspberry Pi Device:** Raspberry Pi 4;
 - **Operating System:** Raspberry Pi OS (64-bit);
@@ -128,7 +130,9 @@ code
 
 → No VScode, realizar a instalação e ativação do python (extensões): 
 
-![Extensoes Py](https://github.com/ccadu86/IA-EMO-ES/assets/134337212/6926ddcb-4f7e-4faf-9f1c-7b189e5482e0)
+<p align="center">
+  <img src="https://github.com/ccadu86/IA-EMO-ES/assets/134337212/6926ddcb-4f7e-4faf-9f1c-7b189e5482e0" alt="Extensões">
+</p>
 
 ---
 
@@ -687,7 +691,10 @@ landmarks {
 ## Configuração do Hardware
 ![hardware](https://github.com/ccadu86/IA-EMO-ES/assets/134337212/2540bac4-1973-4ba1-adec-212166ec5087)
 
-![Circuito](https://github.com/ccadu86/IA-EMO-ES/assets/36140205/8fa4fa08-a7b4-455a-ac38-769f11ea7f3c)
+### Resistor de Pull Down
+<p align="center">
+  <img width="280px" src="https://github.com/ccadu86/IA-EMO-ES/assets/36140205/8fa4fa08-a7b4-455a-ac38-769f11ea7f3c" alt="Resistor de Pull Down">
+</p>
 
 ### Sistema de Pull Down da Raspberry Pi 4
 
@@ -734,7 +741,9 @@ Diagrama de pinagem da Raspberry Pi 4:
 
 - Realiza o pull-down na operação.
 
-![botão](https://github.com/ccadu86/IA-EMO-ES/assets/36140205/aca085cc-51f6-4265-aaff-5b94fe381aac)
+<p align="center">
+  <img src="https://github.com/ccadu86/IA-EMO-ES/assets/36140205/aca085cc-51f6-4265-aaff-5b94fe381aac" alt="Botão">
+</p>
 
 <h2> Realizado por: </h2>
 <div align="center">
