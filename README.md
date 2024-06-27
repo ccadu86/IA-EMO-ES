@@ -102,6 +102,10 @@ SSH - É um protocolo de comunicação remoto via terminal, pelo terminal conseg
 
 → Clicar no botão “YES” para a criação da imagem no cartão SD.
 
+## Python
+
+→ Link para o site oficial: (https://www.python.org/)
+
 ### Preparação do ambiente - Python:
 
 → Instalação e Configuração do VScode
