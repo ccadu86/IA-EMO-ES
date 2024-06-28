@@ -805,9 +805,17 @@ Diagrama de pinagem da Raspberry Pi 4:
         </td>
         <td align="center">
         <a href="https://github.com/natpazs">
-            <img src="https://avatars.githubusercontent.com/u/134384648?v=4" width="115px;" alt="Natália"/><br>
+            <img src="https://avatars.githubusercontent.com/u/134384648?v=4" width="115px;" alt="Natália Paz"/><br>
             <sub>
             <b>Natália Paz</b>
+            </sub>
+        </a>
+        </td>
+        <td align="center">
+        <a href="https://github.com/natinhaaa">
+            <img src="https://avatars.githubusercontent.com/u/134004670?v=4" width="115px;" alt="Natalia Vaz"/><br>
+            <sub>
+            <b>Natalia Vaz</b>
             </sub>
         </a>
         </td>
