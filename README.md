@@ -823,4 +823,7 @@ Diagrama de pinagem da Raspberry Pi 4:
     </table>
 </div>
 
+### Contribuições
+
+Agradecemos ao [@WagnerLAJ](https://github.com/WagnerLAJ) por sua valiosa contribuição para este projeto.
 
