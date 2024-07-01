@@ -702,9 +702,7 @@ landmarks {
 ![hardware](https://github.com/ccadu86/IA-EMO-ES/assets/134337212/2540bac4-1973-4ba1-adec-212166ec5087)
 
 ### Resistor de Pull Down
-<p align="center">
-  <img width="280px" src="https://github.com/ccadu86/IA-EMO-ES/assets/36140205/8fa4fa08-a7b4-455a-ac38-769f11ea7f3c" alt="Resistor de Pull Down">
-</p>
+![Sistema Pull Down](https://github.com/ccadu86/IA-EMO-ES/assets/134337212/8ec42157-79d5-4bef-b602-abc1701c20de)
 
 ### Sistema de Pull Down da Raspberry Pi 4
 
