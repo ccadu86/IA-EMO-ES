@@ -781,7 +781,7 @@ Diagrama de pinagem da Raspberry Pi 4:
         <a href="https://github.com/Guilherme-Augusto06">
             <img src="https://avatars.githubusercontent.com/u/133021078?v=4" width="115px;" alt="Guilherme"/><br>
             <sub>
-            <b>Guilherme Augusto</b>
+            <b>Guilherme</b>
             </sub>
         </a>
         </td>
